@@ -1,6 +1,6 @@
 # Red Hat Extension Pack for Podman Desktop
 
-Extension Pack for Podman Desktop contains several extensions of Red Hat that enhance Podman Desktop with technologies and tools s of Red Hat
+Extension Pack for Podman Desktop contains several extensions of Red Hat that enhance Podman Desktop with technologies and tools of Red Hat
 
 ## Extensions Included
 
