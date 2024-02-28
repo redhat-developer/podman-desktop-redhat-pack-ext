@@ -81,7 +81,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ steps.TAG_UTIL.outputs.githubTag }}
+          ref: ${{ needs.tag.outputs.githubTag}}
 
       - name: Install qemu dependency
         run: |
