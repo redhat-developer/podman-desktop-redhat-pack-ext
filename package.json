@@ -2,7 +2,7 @@
   "name": "redhat-pack",
   "displayName": "Red Hat Extension Pack",
   "description": "Get extensions of Red Hat for Podman Desktop",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "icon": "icon.png",
   "publisher": "redhat",
   "license": "Apache-2.0",
