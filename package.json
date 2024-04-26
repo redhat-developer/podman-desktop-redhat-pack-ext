@@ -1,7 +1,7 @@
 {
   "name": "redhat-pack",
   "displayName": "Red Hat Extension Pack",
-  "description": "Recommended Red Hat extensions for Podman Desktop",
+  "description": "Recommended Red Hat extensions",
   "version": "0.0.1",
   "icon": "icon.png",
   "publisher": "redhat",
