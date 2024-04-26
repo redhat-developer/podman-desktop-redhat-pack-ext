@@ -7,13 +7,16 @@
   "publisher": "redhat",
   "license": "Apache-2.0",
   "engines": {
-    "podman-desktop": "^1.7.0"
+    "podman-desktop": "^1.10.0"
   },
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
+    "redhat.ai-lab",
+    "redhat.bootc",
     "redhat.openshift-local",
+    "redhat.redhat-authentication",
     "redhat.redhat-sandbox"
   ]
 }
