@@ -26,6 +26,10 @@ The [OpenShift Local Extension](https://github.com/crc-org/crc-extension) enable
 
 The [OpenShift Developer Sandbox Extension] helps you learn containers, Kubernetes, and OpenShift in your browser using [Developer Sandbox](https://developers.redhat.com/developer-sandbox) for free.
 
+### ✨ OpenShift Checker
+
+The [OpenShift Checker](https://github.com/redhat-developer/podman-desktop-image-checker-openshift-ext) is a tool whose goal is to analyze a Containerfile and highlight the directives and commands which could cause an unexpected behavior when running on an OpenShift cluster.
+
 ## Installation
 
 You can install the Red Hat Extension Pack directly inside of Podman Desktop. Simply click on the "Extensions" tab in the sidebar and search for "Red Hat Extension Pack".
