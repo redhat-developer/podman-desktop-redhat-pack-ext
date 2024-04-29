@@ -1,6 +1,6 @@
 # Red Hat Extension Pack for Podman Desktop
 
-The Podman Desktop Extension Pack is a collection of extensions designed to enhance the functionality of Podman Desktop with Red Hat technologies and tools. With this pack, you can access a range of features that will help you streamline your development workflow and improve your productivity.
+The Podman Desktop Extension Pack is a collection of extensions designed to enhance the functionality of Podman Desktop with Red Hat technologies and tools. This pack gives access to a range of features streamlining development workflow, improving productivity and brings Red Hat tools handy.
 
 ## Included Extensions
 
