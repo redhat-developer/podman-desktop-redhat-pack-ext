@@ -17,6 +17,7 @@
     "redhat.bootc",
     "redhat.openshift-local",
     "redhat.redhat-authentication",
+    "redhat.openshift-checker",
     "redhat.redhat-sandbox"
   ]
 }
