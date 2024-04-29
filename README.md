@@ -4,7 +4,7 @@ The Podman Desktop Extension Pack is a collection of extensions designed to enha
 
 ## Included Extensions
 
-By installing Red Hat Extension Pack for Podman Desktop, the following extensions will be installed:
+By installing the Red Hat Extension Pack for Podman Desktop, you'll get access to the following extensions:
 
 ### ✨ Podman AI Lab 
 
