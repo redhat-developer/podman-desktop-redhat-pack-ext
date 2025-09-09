@@ -24,7 +24,7 @@ The [OpenShift Local Extension](https://github.com/crc-org/crc-extension) enable
 
 ### ✨ Sandbox
 
-The [OpenShift Developer Sandbox Extension] helps you learn containers, Kubernetes, and OpenShift in your browser using [Developer Sandbox](https://developers.redhat.com/developer-sandbox) for free.
+The [OpenShift Developer Sandbox Extension](https://github.com/redhat-developer/podman-desktop-sandbox-ext) helps you learn containers, Kubernetes, and OpenShift in your browser using [Developer Sandbox](https://developers.redhat.com/developer-sandbox) for free.
 
 ### ✨ OpenShift Checker
 
