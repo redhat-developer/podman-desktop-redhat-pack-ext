@@ -1,5 +1,7 @@
 {
   "name": "redhat-pack",
+  "repository": "https://github.com/redhat-developer/podman-desktop-redhat-pack-ext",
+  "homepage": "https://github.com/redhat-developer/podman-desktop-redhat-pack-ext#readme",
   "displayName": "Red Hat Extension Pack",
   "description": "Recommended Red Hat extensions",
   "version": "0.0.1",
